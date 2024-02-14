@@ -15,5 +15,6 @@ Eu <nome>, morando no <endereço>, confirmo que recebi o salário de <salário>,
                 ", na data "+data;
 
         System.out.println(relatorio);
+        System.out.println("o megumin é chato");
     }
 }
