@@ -2,7 +2,7 @@ package danete.danone.megumin.kazuma;
 
 public class AulaEstruturasCondicionais {
     public static void main (String[] args){
-        int idade = 16;
+        int idade = 15;
         boolean autorizado = idade >= 18;
 
         if (autorizado){

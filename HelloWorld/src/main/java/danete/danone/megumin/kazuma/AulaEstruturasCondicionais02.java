@@ -1,12 +1,17 @@
 package danete.danone.megumin.kazuma;
 
+import java.util.Scanner;
+
 public class AulaEstruturasCondicionais02 {
     public static void main (String[] args){
         // idade < 15 categoria infantil
         // idade >= 15 && < 18 categoria juvenil
         // idade >= 18 categoria adulto
 
-        int idade = 14;
+        // Scanner scanner = new Scanner(System.in);
+        // int idade = scanner.nextInt();
+
+        int idade = 16;
         String categoria;
 
         if (idade < 15){
